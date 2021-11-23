@@ -1,3 +1,3 @@
 # MancalaProject
 
-![]("01-Landing Page.png")
+![](01-Landing_Page.png)
